@@ -16,7 +16,7 @@ Voici les règles de base :
 > Je mettrai souvent ce genre de petits message grisé.
 > Il s'agit souvent d'informations **très importantes**, lisez les donc bien !
 
-### Exercice 1 : Forkez moi ça !
+### Exercice 1 : Forkez moi ça ! (5 points)
 
 Le **fork** est une action permettant de copier un dépôt Github entièrement (avec tout son historique) sur son propre compte Github. Ainsi, vous pouvez copier mon dépôt et faire des changements sur la copie sans affecter le mien.
 
@@ -30,25 +30,25 @@ Pour savoir comment forker, lisez ceci : [savoir comment forker](https://github.
 > Pour la suite du TP, vous devrez travailler en équipe sur le dépôt, n'oubliez pas de vous ajouter en tant que collaborateurs !
 > Pour ceux qui ne savent plus comment faire, voici un rappel de la démarche : [ajouter des collaborateurs à mon dépôt github](https://github.com/ThomasEcalle/git_tp_final/blob/master/add_collaborators.md).
 
-### Exercice 2 : Présentez-vous !
+### Exercice 2 : Présentez-vous ! (5 points)
 
 Dans ce second exercice, vous allez modifier les lignes qui suivent dans le README.md et présenter votre équipe (nom de famille et prénom) ainsi que la date du jour du TP.
 
 > Ce sont ces informations qui me permettront de vous noter, si vous ne vous présentez pas ici, je ne pourrais pas vous noter :)
 
 Noms des étudiants : 
-* Nom Prénom
-* Nom Prénom
-* Nom Prénom
+* Brongniart Arthur
+* Boussaid Yanis
+* Levoyes Lylian
 
-Date du jour : 00/00/0000
+Date du jour : 09/01/2020
 
 Tout est ok ? 
 Faites donc un **commit** et **pushez** moi tout ça sur master (sur **votre** dépôt donc, puisque vous l'avez forké).
 
 > N'importe lequel des collaborateurs peut pusher !
 
-### Exercice 3 : Travail d'équipe !
+### Exercice 3 : Travail d'équipe ! (5 points)
 
 Pour cet exercice, je vais appeler les collaborateurs :
 * collaborateur 1
@@ -113,7 +113,7 @@ Le **collaborateur 3** devra :
 
 Une fois que le **collaborateur 3** estime que tout son travail est fini, il peut **push** sa branche sur le dépôt distant.
 
-### Exercice 4 : Fuuuuuuusion !
+### Exercice 4 : Fuuuuuuusion ! (5 points)
 
 Nous approchons de la fin de cet incroyable TP :)
 
@@ -167,3 +167,23 @@ J'ai développé un script qui va me permettre, à la fin du temps imparti, de *
 > Attention, pour que mon script récupère vos dépôts, ils doivent être **public** ou alors **privés** mais en m'ayant ajouté comme collaborateur
 
 > Et ce **avant** la fin du TP et donc que je fasse tourner le script
+
+### Notation :
+
+La notation est assez simple et vous donne un 10 plutôt facile : 
+
+ - Exercice 1 : 5 points
+ - Exercice 2 : 5 points
+ - Exercice 3 : 5 points
+ - Exercice 4 : 5 points
+
+Le **10** est donc plutôt simple à avoir si vous suivez les étapes correctement.
+
+Les exercices **1** , **2** et **4** sont notés en commun.
+L'exercice **3** sera plus personnel car je noterai chaque collaborateur différemment.
+
+> Attention, étant donné que les exercices **1** et **2** sont très simples, je serai stricte sur le respect des bonnes pratiques pour les exercices **3** et **4**
+
+**Bon courage :)**
+
+
